@@ -8,10 +8,33 @@ output:
 date: "`r Sys.Date()`"
 ---
 
-“Las entidades […] aseguradoras deberán contar con un departamento o servicio de atención al cliente. Además podrán designar un defensor del cliente, a quien corresponderá atender y resolver los tipos de reclamaciones que determine en cada caso su reglamento de funcionamiento, y que habrá de ser una entidad o experto independiente.”
+“Las entidades […] `aseguradoras` deberán contar con un departamento o servicio de atención al cliente. Además podrán designar un defensor del cliente, a quien corresponderá atender y resolver los tipos de reclamaciones que determine en cada caso su reglamento de funcionamiento, y que habrá de ser una entidad o experto independiente.”
 
-# Deberes/obligaciones de las aseguradoras
+# 1. Obligaciones de las entidades aseguradoras (*Resumen*)
 
+-   Atender y resolver las quejas y reclamaciones de sus clientes (**Artículo 3**) en un plazo de 2 meses desde la presentación de la queja (**Artículo 10.3**).
+-   Disponer de un `departamento o servicio específicamente para atención al cliente` (*“Departamento”*) (**Artículo 4**).
+    -   No es obligación, pero sí un derecho disponer de un `defensor del cliente` (*“Defensor”*) (**Artículo 4.2**), al que se le aplicarán los mismos deberes que a los departamentos.
+-   Tener titulares del `Departamento` (*"Titulares"*) que cumpla con los requisitos personales (**Artículo 5**).
+    -   Que el consejo de administración o equivalente de la entidad aseguradora designe a los `Titulares`.
+    -   Que la designación se comunique al `Comisionado para la Defensa del Cliente de Servicios Financieros` (*"Comisionado"*) y autoridades supervisoras.
+-   Implementar las medidas oportunas para separar el `Departamento` de los demás servicios comerciales (**Artículo 6**).
+    -   Que las medidas respeten los principios de rapidez, seguridad, eficacia y coordinación.
+-   Aprobar un Reglamento para la Defensa del Cliente, con su contenido oportuno (**Artículo 8**).
+-   Poner a disposición del cliente toda información que se establece en la Orden (**Artículo 9**).
+-   En el caso de queja (**Artículo 12**): 
+    -   Se deberá informar al reclamante sobre la instancia competente para conocer su queja.
+    -   Se requerirá completar la documentación en el plazo de 10 días cuando haya un error en la queja.
+    -   Finalizar el expediente, motivado, en el plazo de 2 meses desde que se presentase la queja (**Artículo 15**).
+    -   Notificar la decisión en un plazo de 10 días naturales desde la fecha de la decisión.
+-   Atender a los requerimientos que efectúen los `Comisionados` (**Artículo 16**).
+-   Establecer acuerdos con los `Comisionados` para facilitar la transmisión de datos y documentos.
+-   Los `Departamentos` deberán redactar un informe anual en el primer trimestre de cada año explicando el desarrollo de su función, cumpliendo con los requisitos de contenido mínimo (**Artículo 17**). 
+
+
+# 2. Requisitos y deberes (*Capítulo II*)
+
+## 2.1 Deberes/obligaciones de las aseguradoras
 
 #### Atender y resolver las quejas y reclamaciones de sus clientes (**Artículo 3**):
 
@@ -27,7 +50,7 @@ date: "`r Sys.Date()`"
 -   **Designación**
     -   Los titulares serán designados por el consejo de administración o equivalente, o la dirección general de la sucursal. 
 -   **Comunicación de Designación**
-    -   Al Comisionado(s) para la Defensa del Cliente de Servicios Financieros y autoridades supervisadoras. 
+    -   Al `Comisionado(s)` para la Defensa del Cliente de Servicios Financieros y autoridades supervisadoras.
 
 
 #### Medidas oportunas para (**Artículo 6**):
@@ -75,7 +98,7 @@ date: "`r Sys.Date()`"
 -   Referencias a la normativa de transparencia y protección del cliente de servicios financieros. 
 -   Las decisiones expresarán la facultad que asiste al reclamante para acudir al Comisionado para la Defensa del Cliente de Servicios Financieros en caso de disconformidad.
 
-# Aseguradoras podrán
+## 2.2 Aseguradoras podrán
 
 #### Designar un defensor del cliente para que (**Artículo 4.2.**):
 
@@ -99,7 +122,7 @@ date: "`r Sys.Date()`"
 -   Decisiones vinculantes
     -   Las decisiones favorables al reclamante vincularán a la entidad. 
 
-# Procedimiento (Capítulo III)
+# 3. Procedimiento (*Capítulo III*)
 
 #### Tiempo (**Artículo 10.3.**):
 -   Los departamentos o servicios de atención al cliente y los defensores del cliente, dispondrán de un plazo de dos meses desde la presentación de la queja para dictar un pronunciamiento.
@@ -152,3 +175,14 @@ date: "`r Sys.Date()`"
 -   Acuerdos necesarios para facilitar la transmisión de datos y documentos entre los Comisionados y las entidades.
 
 
+# 4. Informe Anual (*Capítulo IV*)
+
+#### Contenido (**Artículo 17**):
+-   En el primer trimestre de cada año:
+    -   Los departamentos y, en su caso, los defensores, presentarán al consejo de administración o equivalente un informe explicativo del desarrollo de su función.
+-   Contenido mínimo:
+    -   Resumen estadístico de las quejas y reclamaciones atendidas
+    -   Resumen de las decisiones dictadas y su carácter favorable o desfavorable
+    -   Criterios generales en las decisiones
+    -   Recomendaciones o sugerencias
+-   La memoria anual de las entidades debe contener al menos un resumen del informe.
