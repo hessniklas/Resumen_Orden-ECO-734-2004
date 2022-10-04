@@ -13,20 +13,20 @@ date: "`r Sys.Date()`"
 # Deberes/obligaciones de las aseguradoras
 
 
-## Atender y resolver las quejas y reclamaciones de sus clientes (**Artículo 3**):
+#### Atender y resolver las quejas y reclamaciones de sus clientes (**Artículo 3**):
 
-# Disponer de un departamento o servicio específicamente para atención al cliente (**Artículo 4**):
--   Entidades bajo el mismo grupo económico: podrán disponer de un departamento o servicio para todo el grupo.
+#### Disponer de un departamento o servicio específicamente para atención al cliente (**Artículo 4**):
+-   Entidades bajo el mismo grupo económico: *podrán disponer de un departamento o servicio para todo el grupo.*
 
-# Requisitos de los titulares del departamento o servicio de atención (**Artículo 5**):
--   Requisitos Personales
+#### Requisitos de los titulares del departamento o servicio de atención (**Artículo 5**):
+-   **Requisitos Personales:**
     -   Honorabilidad comercial y profesional:
         -   Aquellos que dispongan de una trayectoria personal de respeto a las leyes mercantiles, regulaciones de actividad económica, y prácticas comerciales y financieras. 
     -   Conocimiento y experiencia adecuada:
         -   Aquellos que hayan desempeñado funciones relacionadas con la actividad financiera de la entidad.
--   Designación
+-   **Designación**
     -   Los titulares serán designados por el consejo de administración o equivalente, o la dirección general de la sucursal. 
--   Comunicación de Designación
+-   **Comunicación de Designación**
     -   Al Comisionado(s) para la Defensa del Cliente de Servicios Financieros y autoridades supervisadoras. 
 
 
@@ -41,11 +41,114 @@ date: "`r Sys.Date()`"
 #### Aprobar un Reglamento para la Defensa del Cliente (**Artículo 8**):
 
 -   Regular la actividad del departamento o servicio de atención (y del defensor del cliente, en su caso).
--   Aprobación:
+-   **Aprobación:**
     -   Por el consejo de administración o equivalente
--   Ratificación:
+-   **Ratificación:**
     -   Por la junta o asamblea general o equivalente
+-   **Elementos (al menos los siguientes):**
+    -   Duración del mandato y posibilidad de renovación (en su caso)
+    -   Causas de incompatibilidad, inelegibilidad y cese
+    -   Relación clara y precisa de los asuntos que le pertenece a cada uno
+        -   Si se atribuye el conocimiento del mismo tipo de reclamación a ambas (departamento de atención al cliente y defensor del cliente):
+    -   Facilitar toda información solicitada en relación con el ejercicio de las funciones del departamento o defensor.
+    -   Plazo para presentar reclamaciones
+    -   Superior a 2 años desde que el cliente tuviera conocimiento de los hechos
+    -   Concreción de los trámites internos
+-   **Organismo de control e inspección:**
+    -   Verificar que el reglamento contiene la regulación necesaria
+    -   Plazo:
+        -   3 meses desde la presentación de la solicitud
+    -   Corresponde:
+        -   Para las `entidades aseguradoras` --> a la `Dirección General de Seguros y Fondos de Pensiones del Ministerio de Economía`
+            -   Excepción: si son entidades de competencia autonómica --> al `órgano competente de la CCAA` en donde radique el domicilio social de la entidad.
+        -   Si un mismo reglamento se aplica a todas las entidades de un mismo grupo --> entidad de verificación correrá a cargo de la entidad dominante.
+
+#### Poner a disposición del cliente toda la información siguiente (**Artículo 9**):
+
+-   Existencia de un departamento de atención al cliente, y defensor del cliente si lo hay
+    -   Especificar dirección postal y electrónica
+-   Obligación de la entidad de atender y resolver quejas en un plazo de 2 meses
+-   Referencia al Comisionado o Comisionados para la Defensa del Cliente de Servicios Financieros que correspondan
+    -   Con dirección postal y electrónica
+    -   La necesidad de agotar la vía del departamento o servicio de atención al cliente o del defensor del cliente
+-   Reglamento de funcionamiento
+-   Referencias a la normativa de transparencia y protección del cliente de servicios financieros. 
+-   Las decisiones expresarán la facultad que asiste al reclamante para acudir al Comisionado para la Defensa del Cliente de Servicios Financieros en caso de disconformidad.
+
+# Aseguradoras podrán
+
+#### Designar un defensor del cliente para que (**Artículo 4.2.**):
+
+-   Atienda y resuelva las reclamaciones.
+-   Promueva el cumplimiento de la normativa de transparencia y protección, y de las buenas prácticas.
+    -   El defensor del cliente se puede efectuar conjuntamente con otras entidades. 
+
+#### Si se designa un defensor del cliente --> Deberes (**Artículo 7**):
+
+-   Requisitos Personales (igual que los titulares del departamento):
+    -   Honorabilidad comercial y profesional 
+    -   Conocimiento y experiencia adecuada.
+-   Designación
+    -   Los defensores serán designados por el consejo de administración o equivalente, o la dirección general de la sucursal
+    -   La designación puede ser ratificada posteriormente por la junta o asamblea general o equivalente. 
+-   Comunicación de Designación
+    -   Al `Comisionado(s)` para la Defensa del Cliente de Servicios Financieros y autoridades supervisadoras.
+-   Actuación:
+    -   Con independencia con respecto de la entidad
+    -   Total autonomía en cuanto a los criterios y directrices a aplicar
+-   Decisiones vinculantes
+    -   Las decisiones favorables al reclamante vincularán a la entidad. 
+
+# Procedimiento (Capítulo III)
+
+#### Tiempo (**Artículo 10.3.**):
+-   Los departamentos o servicios de atención al cliente y los defensores del cliente, dispondrán de un plazo de dos meses desde la presentación de la queja para dictar un pronunciamiento.
+    -   El cómputo del plazo máximo de terminación comenzará a contar desde la presentación de la queja o reclamación en el departamento o servicio de atención al cliente o defensor del cliente (Artículo 12.1)
+    -   A partir de la finalización de dicho plazo el reclamante puede acudir al Comisionado para la Defensa del Cliente de Servicios Financieros.
 
 
+#### Forma y lugar (**Artículo 11.1. y 11.3.**):
+
+-   Personalmente o mediante representación
+-   En soporte papel o por medios informáticos, electrónicos o telemáticos (deberá ajustarse a la Ley 59/2003, de 19 de diciembre, de firma electrónica)
+-   Ante los departamentos o servicios de atención al cliente, ante el defensor del cliente, en cualquier oficina abierta al público de la entidad, en la dirección de correo electrónico
+
+#### Contenido (**Artículo 11.2.**):
+-   Nombre, apellidos y domicilio del interesado, DNI para las personas físicas y datos referidos a registro público para las jurídicas.
+-   Motivo de la queja o reclamación
+-   Oficina u oficinas, departamento o servicio donde se hubieran producido los hechos objeto
+-   El reclamante no tiene conocimiento de que la materia objeto de la queja o reclamación está siendo sustanciada a través de un procedimiento administrativo, arbitral o judicial.
+-   Lugar, fecha y firma.
+-   Las pruebas documentales que obren en su poder en que se fundamente su queja o reclamación.
+
+#### Admisión (**Artículo 12**):
+-   La queja o reclamación ésta será remitida internamente a la entidad correspondiente (el departamento o servicio de atención al cliente o al defensor del cliente). 
+-   Deberá informarse al reclamante sobre la instancia competente para conocer su queja o reclamación.
+-   Se deberá acusar recibo por escrito, dejar constancia de la fecha de presentación, y se procederá a la apertura de expediente.
+-   Si hay un error en la queja o reclamación, se requerirá al firmante para completar la documentación remitida en el plazo de diez días naturales
+-   Sólo podrá rechazarse la admisión a trámite de las quejas y reclamaciones en los casos siguientes: 
+    -   Cuando se omitan datos esenciales para la tramitación
+    -   Cuando sea competencia de los órganos administrativos, arbitrales o judiciales, o la misma se encuentre pendiente de resolución o litigio o haya sido ya resuelto en aquellas instancias
+    -   Cuando los hechos, razones y solicitud no se refieran a operaciones concretas o no se ajusten a los requisitos establecidos en esta Orden.
+    -   Cuando se formulen quejas o reclamaciones que reiteren otras anteriores resueltas, presentadas por el mismo cliente en relación a los mismos hechos.
+    -   Cuando hubiera transcurrido el plazo para la presentación de quejas y reclamaciones.
+-   Cuando se entienda no admisible la queja o reclamación el tiene un plazo de diez días naturales para que presente sus alegaciones. 
+-   Cuando el interesado hubiera contestado y se mantengan las causas de inadmisión, se le comunicará la decisión final adoptada.
+
+#### Tramitación (**Artículo 13**):
+-   En el curso de tramitación, se podrá recabar cuantos datos, aclaraciones, informes o elementos de prueba consideren oportunos.
+
+#### Allanamiento y desistimiento (**Artículo 14**):
+-   Rectificación de situación por parte de la entidad como consecuencia de la queja: comunicarlo a la instancia competente y justificarlo documentalmente --> archivo de la queja
+-   Desistimiento de la queja: en cualquier momento.
+
+#### Finalización y notificación (**Artículo 15**):
+-   Plazo para finalizar expediente: 2 meses desde que se presentase la queja
+-   Decisión: motivada y con conclusiones claras
+-   Notificación: en el plazo de 10 días naturales desde su fecha
+
+#### Relación con los Comisionados (**Artículo 16**):
+-   Deber de atender los requerimientos que los Comisionados puedan efectuar a las entidades.
+-   Acuerdos necesarios para facilitar la transmisión de datos y documentos entre los Comisionados y las entidades.
 
 
