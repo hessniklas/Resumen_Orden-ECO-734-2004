@@ -1,5 +1,6 @@
 ---
 title: "Resumen_10032022.git"
+author: Niklas Hess
 output: 
   html_document:
     toc: true
@@ -7,26 +8,44 @@ output:
 date: "`r Sys.Date()`"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+“Las entidades […] aseguradoras deberán contar con un departamento o servicio de atención al cliente. Además podrán designar un defensor del cliente, a quien corresponderá atender y resolver los tipos de reclamaciones que determine en cada caso su reglamento de funcionamiento, y que habrá de ser una entidad o experto independiente.”
 
-## R Markdown
+# Deberes/obligaciones de las aseguradoras
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Atender y resolver las quejas y reclamaciones de sus clientes (**Artículo 3**):
 
-```{r cars}
-summary(cars)
-```
+# Disponer de un departamento o servicio específicamente para atención al cliente (**Artículo 4**):
+-   Entidades bajo el mismo grupo económico: podrán disponer de un departamento o servicio para todo el grupo.
 
-## Including Plots
+# Requisitos de los titulares del departamento o servicio de atención (**Artículo 5**):
+-   Requisitos Personales
+    -   Honorabilidad comercial y profesional:
+        -   Aquellos que dispongan de una trayectoria personal de respeto a las leyes mercantiles, regulaciones de actividad económica, y prácticas comerciales y financieras. 
+    -   Conocimiento y experiencia adecuada:
+        -   Aquellos que hayan desempeñado funciones relacionadas con la actividad financiera de la entidad.
+-   Designación
+    -   Los titulares serán designados por el consejo de administración o equivalente, o la dirección general de la sucursal. 
+-   Comunicación de Designación
+    -   Al Comisionado(s) para la Defensa del Cliente de Servicios Financieros y autoridades supervisadoras. 
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+#### Medidas oportunas para (**Artículo 6**):
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+-   Separar el departamento o servicio de atención al cliente de los demás servicios comerciales
+    -   Propósito: evitar conflictos de interés y garantizar la toma de decisiones de manera autónoma.
+-   Responder a los principios de rapidez, seguridad, eficacia y coordinación.
+-   Garantizar conocimiento adecuado del personal al servicio de la normativa sobre transparencia y protección de los clientes de servicios financieros. 
+
+
+#### Aprobar un Reglamento para la Defensa del Cliente (**Artículo 8**):
+
+-   Regular la actividad del departamento o servicio de atención (y del defensor del cliente, en su caso).
+-   Aprobación:
+    -   Por el consejo de administración o equivalente
+-   Ratificación:
+    -   Por la junta o asamblea general o equivalente
+
+
+
+
